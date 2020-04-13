@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Knowledger</string>
+    <string name="err_name">Veuillez indiquer un pseudo</string>
+    <string name="err_email">Cet email n\'est pas valide</string>
+    <string name="err_password">Le mot de passe doit contenir 6 caractères minimum</string>
+    <string name="question">Question</string>
+    <string name="home">Home</string>
+    <string name="repondre">Repondre</string>
+    <string name="compte">Compte</string>
+    <string name="country_prompt">Sélectionnez une catégorie</string>
+
+</resources>
